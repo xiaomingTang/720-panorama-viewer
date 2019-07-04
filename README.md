@@ -1,2 +1,3 @@
 # 720-panorama-viewer
-720-panorama-viewer
+一个在线全景预览器
+由于一些原因，代码不能开源，敬请谅解
